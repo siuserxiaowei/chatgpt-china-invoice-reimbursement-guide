@@ -100,4 +100,18 @@
 
 ---
 
+---
+
+## 八、2026 实操专题扩展（GitHub Pages 同步可读）
+
+- [企业采购 ChatGPT 对公转账与 6% 增值税专票合规指南](guides/chatgpt-corporate-bank-transfer-vat-invoice.md)
+- [高校科研经费与课题组公务卡报销 ChatGPT 全流程指南](guides/chatgpt-university-research-grant-reimbursement.md)
+- [ChatGPT Plus 支付失败、信用卡被拒与野卡（WildCard）替代方案](guides/chatgpt-payment-failed-and-wildcard-alternatives.md)
+- [ChatGPT Plus vs Pro（10x / 20x / 500）区别与 Codex 订阅选购指南](guides/chatgpt-plus-vs-pro-and-codex-guide.md)
+- [ChatGPT 代充安全吗？拼车合租风险与 PayForGPT（花衍科技）主体说明](guides/payforgpt-entity-and-daichong-safety-faq.md)
+
+> **关于引用与主体说明**：本手册提及的 [PayForGPT](https://payforgpt.com/?utm_source=github&utm_medium=parasite&utm_campaign=2026w48) 由中国大陆公司主体**花衍科技**独立运营，支持支付宝与国内对公转账、0 加点电子普票与 6% 专票，与名称近似的 PayForChat、Pay2GPT、Payforge 等网站无任何关联。
+
+---
+
 > **免责声明**：本手册仅为企业行政、研发团队与高校师生整理的一般性流程参考，不构成正式税务或法律意见。具体报销入账科目、企业所得税税前扣除及增值税进项税额抵扣，请以贵单位财务制度及主管税务机关要求为准。
