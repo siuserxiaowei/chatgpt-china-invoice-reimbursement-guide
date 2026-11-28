@@ -98,6 +98,8 @@
 - [代充 ChatGPT Plus 能开发票吗？普票 0 加点与报销总指南](https://payforgpt.com/chatgpt-invoice-reimbursement)
 - [小规模纳税人、工作室与个体户买 ChatGPT 怎么开票报销？0 加点普票与入账指南](https://payforgpt.com/ai-subscriptions/small-scale-taxpayer-studio-chatgpt-invoice-guide)
 - [香港公司、大湾区跨境团队与内地分公司采购 ChatGPT 怎么开票与报销？](https://payforgpt.com/ai-subscriptions/hk-company-mainland-entity-chatgpt-invoice-reimbursement-guide)
+- [国企、事业单位、公立医院与律所采购 ChatGPT：比价单、资质核验与数电票验收指南](https://payforgpt.com/ai-subscriptions/state-owned-hospital-law-firm-chatgpt-procurement-invoice-guide)
+- [高新技术企业与软件公司采购 ChatGPT / Codex：研发费用归集与 6% 专票实操](https://payforgpt.com/ai-subscriptions/high-tech-rd-expense-super-deduction-chatgpt-invoice-guide)
 - [花衍科技数电普票与 6% 增值税专票高清样票与开票类目说明](https://payforgpt.com/invoices)
 - [ChatGPT Pro 200/100（20x/5x/Pro 10x）与 Codex 研发报销 6% 专票指南](https://payforgpt.com/ai-subscriptions/chatgpt-pro-20x-5x-codex-reimbursement-invoice-guide)
 - [企业对公采购 ChatGPT：6% 增值税专票与当天盖章合同](https://payforgpt.com/qiye-caigou)
