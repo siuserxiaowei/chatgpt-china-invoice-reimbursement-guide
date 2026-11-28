@@ -3,7 +3,7 @@
 > 面向国内研发团队、一般纳税人企业财务及高校科研课题组，系统梳理 ChatGPT Plus / Pro 100（Pro 10x）/ Pro 200（20x）与 Codex 订阅采购中的**票据合规边界、税点对比、进项抵扣口径与高校公务卡/信息办报销材料**。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--11--22-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--11--28-blue.svg)](#)
 
 ---
 
@@ -70,7 +70,7 @@
 
 1. **前置确认科目与信息办要求**：下单前问清楚院系科研秘书是否需要学校信息化办公室（网络中心）前置签字，以及课题经费卡偏好“技术服务费”“算力服务”还是“数据处理服务”。
 2. **公务卡留痕或院系对公**：个人垫付可将本人科研公务卡绑定支付宝付款，保留支付宝账单详情与银行卡消费记录；课题组大额批量采购直接走学校对公银行转账。
-3. **免密保护科研隐私**：账号常存有未发表论文、实验代码与基金申报书，切勿把账号密码或 Session JSON 交给陌生渠道。
+3. **免密保护科研隐私**：账号常存有未发表论文、实验代码与基金申报书，**绝不交出账号密码或验证码**；若开通流程需按指引提供一次性临时 Session JSON，须确认系统不入库保存并在开通后于 ChatGPT「设置 → 安全」点击「退出所有设备」撤销旧会话。
 4. **备齐 4 件套交财务**：国内数电发票 + 公务卡/对公付款记录 + 科研采购说明/验收单 + 订阅生效截图。
 
 本仓库 `templates/` 目录已附可直接复制使用的模板：
@@ -81,22 +81,33 @@
 
 ## 六、免费在线自检与文档生成工具
 
-如需在线一键核对贵司/高校能否入账，或直接导出带完整字段的立项说明、合同草稿与《服务费用结算证明》，可使用以下免费工具（免登录）：
+如需在线一键核对贵司/高校能否入账，或直接导出带完整字段的立项说明、合同草稿与《服务费用结算证明》，可使用以下免费工具（免登录、纯本地运行）：
 
 - **报销合规 30 秒自检工具**：[https://payforgpt.com/tools/invoice-reimbursement-check](https://payforgpt.com/tools/invoice-reimbursement-check)
 - **采购立项说明 / 合同草稿 / 服务费用结算证明生成器**：[https://payforgpt.com/tools/procurement-docs-generator](https://payforgpt.com/tools/procurement-docs-generator)
 - **AI 订阅含票总成本计算器**：[https://payforgpt.com/tools/subscription-cost-calculator](https://payforgpt.com/tools/subscription-cost-calculator)
+- **AI 访问与官网结账 6 维环境自检（简/繁双语）**：[https://payforgpt.com/tools/env-check](https://payforgpt.com/tools/env-check)
+- **ChatGPT 降智与 PoW 难度检测（简/繁双语）**：[https://payforgpt.com/tools/jiangzhi-check](https://payforgpt.com/tools/jiangzhi-check)
 - **账号风控下单前 30 秒自检**：[https://payforgpt.com/tools/account-precheck](https://payforgpt.com/tools/account-precheck)
 
 ---
 
-## 七、延伸阅读与完整专题
+## 七、延伸阅读与完整专题（企业开票 + 港澳跨境团队）
 
+### 企业开票与报销专题（简体中文）
 - [代充 ChatGPT Plus 能开发票吗？普票 0 加点与报销总指南](https://payforgpt.com/chatgpt-invoice-reimbursement)
+- [小规模纳税人、工作室与个体户买 ChatGPT 怎么开票报销？0 加点普票与入账指南](https://payforgpt.com/ai-subscriptions/small-scale-taxpayer-studio-chatgpt-invoice-guide)
+- [香港公司、大湾区跨境团队与内地分公司采购 ChatGPT 怎么开票与报销？](https://payforgpt.com/ai-subscriptions/hk-company-mainland-entity-chatgpt-invoice-reimbursement-guide)
+- [花衍科技数电普票与 6% 增值税专票高清样票与开票类目说明](https://payforgpt.com/invoices)
 - [ChatGPT Pro 200/100（20x/5x/Pro 10x）与 Codex 研发报销 6% 专票指南](https://payforgpt.com/ai-subscriptions/chatgpt-pro-20x-5x-codex-reimbursement-invoice-guide)
 - [企业对公采购 ChatGPT：6% 增值税专票与当天盖章合同](https://payforgpt.com/qiye-caigou)
 - [高校科研经费与课题组公务卡报销 ChatGPT 完整指南](https://payforgpt.com/ai-subscriptions/university-research-grant-chatgpt-reimbursement-guide)
-- [ChatGPT 5x / Pro 100（Pro 10x）国内选购与报销说明](https://payforgpt.com/chatgpt-5x-pro-100)
+
+### 香港及澳門團隊採購與付款專題（繁體中文）
+- [香港及澳門公司採購 ChatGPT Plus／Pro（5x／20x）指南：團隊開通、報銷單據與大灣區內地發票對接](https://payforgpt.com/zh-hant/region/hong-kong-macau-company-chatgpt-procurement-guide)
+- [香港信用卡訂閱 ChatGPT Plus 失敗？HSBC／渣打／Mox 拒付原因與可行方案](https://payforgpt.com/zh-hant/region/hong-kong-chatgpt-plus-payment)
+- [ChatGPT Plus／Pro 港幣價格 2026：官方換算與安全比價清單](https://payforgpt.com/zh-hant/region/chatgpt-plus-hkd-price)
+- [澳門怎樣訂閱 ChatGPT Plus／Pro 與 Claude？2026 地區限制與可行方案](https://payforgpt.com/zh-hant/region/macau-chatgpt-claude-subscription)
 
 ---
 
